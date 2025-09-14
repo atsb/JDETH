@@ -30,3 +30,6 @@ Welcome to **JDETH** — a Java-powered, cross-platform rewrite inspired by the 
 - 🧹 **No-dup builds**: resets builder state between runs to avoid “double NODES” deja vu
 
 Requires Java 17+ to run.
+
+Obligatory screenie!
+<img width="1841" height="906" alt="Screenshot 2025-09-14 022936" src="https://github.com/user-attachments/assets/3fc76e85-ab15-47c8-9d8c-6b21f9e078cb" />
